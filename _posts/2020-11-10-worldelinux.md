@@ -35,3 +35,7 @@ similar, to the \< protruding from the input of your synthesizer. In my case, th
 8. I'm pretty sure notation software can be passed MIDI data in this way, but I will need to check. I'll update the article with information. :D
 
 **THE ANSWER THAT HELPED ME CAN BE FOUND [HERE](https://askubuntu.com/a/236221/1034629).**
+
+
+# Review of this keyboard
+I really like this keyboard. Would be nice if it has speakers or at least a headphone jack. Works fine with Yoshimi. NOTE: I did not pay for this; I picked it up from a friend, so it may not be as good if you pay $90 for it. 
