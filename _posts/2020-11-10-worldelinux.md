@@ -6,7 +6,7 @@ released: false
 Hello! This is my first article. It is NOT the same as the blog - the blog is solely for updates on me/software/other stuff; articles are for
 reviews/tutorials/other stuff.
 
-It took me about two hours to find this answer. And it took me about five minutes to DO this answer. So thank me later. :P
+It took me about two hours to find this answer. And it took me about five minutes to USE this answer. So thank me later. :P
 
 Let's get right into it.
 
